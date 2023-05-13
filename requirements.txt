@@ -1,0 +1,15 @@
+pytesseract
+pdf2image
+streamlit
+streamlit_option_menu
+minio
+pandas
+seaborn
+matplotlib
+plotly
+hydralit_components
+utils
+uuid
+katonic
+boto3
+shortuuid
